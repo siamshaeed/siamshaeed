@@ -1,7 +1,7 @@
 <a href="https://cutt.ly/DhYtmQC">
-  <img src="https://cutt.ly/DhYtmQC" alt="siam" width="100" height="100"> </br>
+  <img src="https://cutt.ly/DhYtmQC" alt="siam" width="180" height="150" style="border:1px solid gray"> </br>
 </a>
-<img src="https://cutt.ly/shYtpQV" alt="siam" width="100" height="100"> </br>
+
 <h3>Hi👋, I'm Shaeed Al Hasan (Siam)</h3>
 <p style="color:gray">Web Application Developer</p>
 
