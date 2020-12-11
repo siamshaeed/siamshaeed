@@ -2,7 +2,7 @@
   <img src="https://cutt.ly/DhYtmQC" alt="siam" width="180" height="130">
 </a>
 
-<h3 style="font-family:futura-bold, color:#208ecd">Hi👋, I'm Shaeed Al Hasan (Siam)</h3>
+<h3  color:#208ecd>Hi👋, I'm Shaeed Al Hasan (Siam)</h3>
 
 <blockquote>
 <p style="color:gray">Web Application Developer</p>
