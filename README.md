@@ -2,11 +2,17 @@
   <img src="https://cutt.ly/DhYtmQC" alt="siam" width="180" height="130">
 </a>
 
-<h3  color:#208ecd>Hi, I'm Shaeed Al Hasan (Siam)</h3>
+<h3 >Hi, I'm Shaeed Al Hasan (Siam)</h3>
 
 <blockquote>
 <p style="color:gray">Web Application Developer</p>
 </blockquote>
+
+<p>
+I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas of Web Application from back end programming (PHP, >laravel, Codeigniter) to Front-End (HTML, CSS,Bootstrap and Javascript/jQuery), Digital Accessibility, user experience and visual design.
+
+I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
+</p>
 
 
 <h3 align="left" >Connect with me:</h3>
