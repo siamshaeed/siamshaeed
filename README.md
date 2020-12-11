@@ -5,7 +5,7 @@
 <h3 ><i>Hi, I'm Shaeed Al Hasan (Siam)</i></h3>
 
 <blockquote>
-<p style="color:gray">Web Application Developer</p>
+<h4>Web Application Developer</h4>
 </blockquote>
 
 <p>
@@ -15,7 +15,7 @@ I’m extremely passionate about Web Application development and design in all i
 </p>
 
 
-<h3 align="left" >Connect with me :</h3>
+<h3 align="left" ><i>Connect with me :</i></h3>
 
 
 <p><a href="https://www.linkedin.com/in/siamshaeed" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=212121&amp;logo=linkedin&amp;logoColor=ffffff" style="max-width:100%;"></a>  
@@ -29,7 +29,7 @@ I’m extremely passionate about Web Application development and design in all i
 
 <hr> </hr>
 
-<h3 align="left"><u>Languages and Tools :</u></h3>
+<h3 align="left"><u><i>Languages and Tools :</i></u></h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
