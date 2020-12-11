@@ -34,5 +34,3 @@ I’m extremely passionate about Web Application development and design in all i
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamshaeed&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
 
-<h2>Thank You</h2>
-
