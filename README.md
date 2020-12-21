@@ -1,5 +1,5 @@
 <a href="https://cutt.ly/DhYtmQC">
-  <img src="https://cutt.ly/DhYtmQC" alt="siam" width="180" height="130">
+  <img src="" alt="" width="180" height="130">
 </a>
 
 <h3 ><i>Hi, I'm Shaeed Al Hasan (Siam)</i></h3>
