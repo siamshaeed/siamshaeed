@@ -1,7 +1,3 @@
-<a href="https://cutt.ly/DhYtmQC">
-  <img src="" alt="" width="180" height="130">
-</a>
-
 <h3 ><i>Hi, I'm Shaeed Al Hasan (Siam)</i></h3>
 
 <blockquote>
