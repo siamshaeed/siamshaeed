@@ -19,7 +19,7 @@ I’m extremely passionate about Web Application development and design in all i
 <a href="https://www.facebook.com/siamshaeed" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/47b65ed813d3718fef3d9836c912030ad840e4687c9ea6ef5615f4bc25dee989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d313937366432266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666" alt="Facebook Follow" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=1976d2&amp;logo=facebook&amp;logoColor=ffffff" style="max-width:100%;"></a></p>
 
 <ul>
-<li style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> (+880) 01787972797</li>
+<li style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞 Call</g-emoji> (+880) 01787972797</li>
 <li><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">💌</g-emoji> <a href="mailto:siamshaeed@gmail.com">Email</a></li>
 </ul>
 
