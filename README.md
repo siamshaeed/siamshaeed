@@ -23,7 +23,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <li><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">💌</g-emoji> <a href="mailto:siamshaeed@gmail.com">Email</a></li>
 </ul>
 
-<hr> 
+<hr> </hr>
 
 <h3 align="left"><u><i>Languages and Tools :</i></u></h3>
 <p align="left">
@@ -41,7 +41,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="http://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-<hr> 
+<hr> </hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamshaeed&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
 
