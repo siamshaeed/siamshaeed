@@ -1,5 +1,7 @@
 <h3 ><i>Hi, I'm Shaeed Al Hasan (Siam)</i></h3>
-<a href="https://harunurrashid97.github.io/" rel="nofollow"><img width="550" align="right" src="/harunurrashid97/harunurrashid97/raw/master/Programmer-I.gif" style="max-width:100%;"></a>
+<a href="https://harunurrashid97.github.io/" rel="nofollow"><img width="550" align="right" src="/harunurrashid97/harunurrashid97/raw/master/Programmer-I.gif" style="max-width:100%;">
+<img width="550" align="right" src="/harunurrashid97/harunurrashid97/raw/master/Programmer-I.gif" style="max-width:100%;">
+</a>
 
 <blockquote>
 <h4>Junior Software Engineer</h4>
