@@ -1,4 +1,5 @@
-<a href="https://siamshaeed.github.io/siamshaeed" rel="nofollow"><img width="550" align="right" src="Programmer.gif" style="max-width:80%;"></a> <br/>
+<a href="https://siamshaeed.github.io/siamshaeed" rel="nofollow"><img width="550" align="right" src="Programmer.gif" style="max-width:80%;"></a>
+<img src="https://camo.githubusercontent.com/f1bb7ed1c8b162db1f3888a2aaeb1bda731d1ac2ccce506e172f72af6528e285/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686172756e7368696d616e746f" alt="siamshaeed" data-canonical-src="https://komarev.com/ghpvc/?username=siamshaeed" style="max-width:100%;">
 
 <h3 ><i>Hi, I'm Shaeed Al Hasan (Siam)</i></h3>
 
