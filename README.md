@@ -1,5 +1,5 @@
 <h3 ><i>Hi, I'm Shaeed Al Hasan (Siam)</i></h3>
-<a href="https://siamshaeed.github.io/siamshaeed" rel="nofollow"><img width="550" align="right" src="Programmer.gif" style="max-width:100%;"></a>
+<a href="https://siamshaeed.github.io/siamshaeed" rel="nofollow"><img width="550" align="right" src="Programmer.gif" style="max-width:80%;"></a>
 
 <blockquote>
 <h4>Junior Software Engineer</h4>
