@@ -1,5 +1,5 @@
-<a href="https://siamshaeed.github.io/siamshaeed" rel="nofollow"><img width="300" height="250" align="right" src="image/gifimageSiam.gif"></a>
-<p></p>
+<a href="https://siamshaeed.github.io/siamshaeed" rel="nofollow"><img width="300" height="250" align="right" src="image/gifimageSiam.gif"></a> </br>
+
 <h3><i>Hi , I'm Shaeed Al Hasan (Siam)</i></h3>
 
 <blockquote>
