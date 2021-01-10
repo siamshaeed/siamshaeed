@@ -1,4 +1,4 @@
-<a href="https://siamshaeed.github.io/siamshaeed" rel="nofollow"><img width="300" height="250" align="right" src="image/gifimageSiam.gif" style="max-width:100%;"></a>
+<a href="https://siamshaeed.github.io/siamshaeed" rel="nofollow"><img width="300" height="250" align="right" src="image/gifimageSiam.gif" style="max-width:100%; margin-top:10px"></a>
 
 <h3><i>Hi👋, I'm Shaeed Al Hasan (Siam)</i></h3>
 
