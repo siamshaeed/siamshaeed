@@ -10,7 +10,7 @@
 I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas of Web Application from back end programming <b>(PHP, >laravel, Codeigniter)</b> to Front-End <b>(HTML, CSS,Bootstrap and Javascript/jQuery)</b>, Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
 </p>
 
-
+<p>
 <h3 align="left" ><i>Connect with me :</i></h3>
 
 
@@ -22,7 +22,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <li style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> (+880) 01787972797</li>
 <li><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">💌</g-emoji> <a href="mailto:siamshaeed@gmail.com">Email</a></li>
 </ul>
-
+</p>
 <hr> </hr>
 
 <h3 align="left"><u><i>Languages and Tools :</i></u></h3>
