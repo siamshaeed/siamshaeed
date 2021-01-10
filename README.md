@@ -1,6 +1,6 @@
-<a href="https://siamshaeed.github.io/siamshaeed" rel="nofollow"><img width="300" height="250" align="right" src="image/gifimageSiam.gif" style="margin-bottom:10px"></a>
+<a href="https://siamshaeed.github.io/siamshaeed" rel="nofollow"><img width="300" height="250" align="right" src="image/gifimageSiam.gif"></a>
 
-<h3><i>Hi👋, I'm Shaeed Al Hasan (Siam)</i></h3>
+<h3 style="margin-top:10px"><i>Hi👋, I'm Shaeed Al Hasan (Siam)</i></h3>
 
 <blockquote>
 <h4>Junior Software Engineer</h4>
