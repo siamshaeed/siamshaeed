@@ -10,7 +10,7 @@
 I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas of Web Application from back end programming <b>(PHP, >laravel, Codeigniter)</b> to Front-End <b>(HTML, CSS,Bootstrap and Javascript/jQuery)</b>, Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
 </p>
 
-<div>
+<h2>
 <h3 align="left" ><i>Connect with me :</i></h3>
 
 <p><a href="https://www.linkedin.com/in/siamshaeed" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=212121&amp;logo=linkedin&amp;logoColor=ffffff" style="max-width:100%;"></a>  
@@ -21,7 +21,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <li style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> (+880) 01787972797</li>
 <li><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">💌</g-emoji> <a href="mailto:siamshaeed@gmail.com">Email</a></li>
 </ul>
-</div>
+</h2>
 <hr> </hr>
 
 <h3 align="left"><u><i>Languages and Tools :</i></u></h3>
