@@ -40,5 +40,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 
 <hr> </hr>
 
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3573d702fe0e92c833a940c059dbbdebe8d3690314d6c3fd5a704576a461ac20/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6261736861726f7669"><img src="https://camo.githubusercontent.com/3573d702fe0e92c833a940c059dbbdebe8d3690314d6c3fd5a704576a461ac20/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6261736861726f7669" alt="visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=siamshaeed" style="max-width:100%;"></a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamshaeed&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
 
