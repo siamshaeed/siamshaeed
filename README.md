@@ -30,7 +30,6 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://wordpress.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="git" width="40" height="40"/> </a> 
