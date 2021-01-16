@@ -3,7 +3,7 @@
 <h3><i>Hi , I'm Shaeed Al Hasan (Siam)</i></h3>
 
 <blockquote>
-<h4>Junior Software Engineer</h4>
+<h4>Jr Software Engineer</h4>
 </blockquote>
 
 <p style="text-align:justify";>
