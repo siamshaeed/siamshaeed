@@ -7,7 +7,7 @@
 </blockquote>
 
 <p style="text-align:justify";>
-I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas of Web Application from back end programming <b>(PHP, >laravel, Codeigniter)</b> to Front-End <b>(HTML, CSS,Bootstrap and Javascript/jQuery)</b>, Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
+I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas of Web Application from back end programming (PHP, >laravel) to Front-End <b>(HTML, CSS,Bootstrap and Javascript/jQuery)</b>, Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
 </p>
 
 <h3 align="left" ><i>Connect with me :</i></h3>
