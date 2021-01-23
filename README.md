@@ -12,10 +12,10 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 
 <h3 align="left" ><i>Connect with me :</i></h3>
 
-<ul>
-<li style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> (+880) 01787972797</li>
-<li><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">💌</g-emoji> <a href="mailto:siamshaeed@gmail.com">Email</a></li>
-</ul>
+
+<p style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> (+880) 01787972797</p>
+<p><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">💌</g-emoji> <a href="mailto:siamshaeed@gmail.com">Email</a></p>
+
 
 <p><a href="https://www.linkedin.com/in/siamshaeed" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=212121&amp;logo=linkedin&amp;logoColor=ffffff" style="max-width:100%;"></a>  
 <a href="https://www.instagram.com/siamshaeed" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/f4ef781b4437f119cfde069296b1319a35548c5e9499bf5625b1be0bbf1bae36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d466f6c6c6f772d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d643831623630266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d666666666666" alt="Insta Follow" data-canonical-src="https://img.shields.io/badge/%20-Follow-black?color=14171A&amp;labelColor=d81b60&amp;logo=instagram&amp;logoColor=ffffff" style="max-width:100%;"></a>   
