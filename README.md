@@ -6,7 +6,7 @@
 <h4>Jr Software Engineer</h4>
 </blockquote>
 
-<p style="text-align:justify";>
+<p>
 I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas of Web Application from back end programming (PHP, >laravel) to Front-End (HTML, CSS,Bootstrap and Javascript/jQuery), Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
 </p>
 
@@ -23,7 +23,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 
 <hr>
 
-<h3 align="left"><u><i>Languages and Tools :</i></u></h3>
+<h3 align="left"><i>Languages and Tools :</i></h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/> </a>
