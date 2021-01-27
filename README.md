@@ -16,6 +16,9 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <p style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> +88001787972797
 &nbsp  <g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">💌</g-emoji> <a href="mailto:siamshaeed@gmail.com">Email</a>
 &nbsp  <a href"https://github.com/siamshaeed">Resume</a>
+ 
+&nbsp  <g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">📋</g-emoji> <a href="mailto:siamshaeed@gmail.com">Email</a>
+ 
 </p>
 
 
