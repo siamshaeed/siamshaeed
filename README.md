@@ -43,5 +43,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3573d702fe0e92c833a940c059dbbdebe8d3690314d6c3fd5a704576a461ac20/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6261736861726f7669"><img src="https://camo.githubusercontent.com/3573d702fe0e92c833a940c059dbbdebe8d3690314d6c3fd5a704576a461ac20/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6261736861726f7669" alt="visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=siamshaeed" style="max-width:100%;"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamshaeed&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamshaeed&show_icons=true&locale=en&layout=compact" alt="siamshaeed" />
+<a href="https://github.com/rktirtho/github-readme-stats"><img src="https://camo.githubusercontent.com/47bbb76b5c8c5c664738481b70fae1361921a3b89e4082bc7a1aaffbb2f7a559/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170693f757365726e616d653d726b74697274686f2673686f775f69636f6e733d74727565" alt="My github stats" data-canonical-src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rktirtho&amp;show_icons=true" style="max-width:100%;"></a>
+</p>
 
