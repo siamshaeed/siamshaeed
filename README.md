@@ -41,9 +41,10 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-
 <hr>
-<p><span>[![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=siamshaeed&show_icons=true)](https://github.com/siamshaeed/github-readme-stats)</span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=siamshaeed&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
+
+[![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=siamshaeed&show_icons=true)](https://github.com/siamshaeed/github-readme-stats)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=siamshaeed&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
 
 
 
