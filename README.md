@@ -43,6 +43,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 
 <hr>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=siamshaeed&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=siamshaeed&show_icons=true&locale=en&layout=compact" alt="siamshaeed"/></p>
+
 [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=siamshaeed&show_icons=true)](https://github.com/siamshaeed/github-readme-stats)
 
