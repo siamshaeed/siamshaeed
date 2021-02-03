@@ -7,7 +7,7 @@
 </blockquote>
 
 <p>
-I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas of Web Application from back end programming (PHP, >laravel) to Front-End (HTML, CSS,Bootstrap and Javascript/jQuery), Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
+I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas of Web Application from back end programming (PHP, laravel) to Front-End (HTML, CSS,Bootstrap and Javascript, jQuery), Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
 </p>
 
 
