@@ -42,7 +42,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 
 <hr>
 
-<img align="right" alt="GIF" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="300" height="200"/>
+<img align="right" alt="GIF" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="335" height="188"/>
 
 [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=siamshaeed&show_icons=true)](https://github.com/siamshaeed/github-readme-stats)
 
