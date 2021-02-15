@@ -39,7 +39,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 </code>
 </p>
 
-<hr>
+
 
 <img align="right" alt="_siam_shaeed" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="440" height="200"/> 
 
