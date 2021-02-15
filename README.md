@@ -9,7 +9,7 @@
 I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas of Web Application from back end programming (PHP, laravel) to Front-End (HTML, CSS,Bootstrap and Javascript, jQuery), Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
 <g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">&nbsp &nbsp📋</g-emoji> <a target="_blank" href="https://drive.google.com/file/d/1tvsxw9HX1K8BuiOlyzbeCTQ3pvadELLe/view?usp=sharing">Resume</a>
 </p>
-
+<hr>
 
 <h3 align="left" ><i>Connect with me :</i></h3>
 
@@ -21,8 +21,6 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <a href="https://www.facebook.com/siamshaeed" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/47b65ed813d3718fef3d9836c912030ad840e4687c9ea6ef5615f4bc25dee989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d313937366432266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666" alt="Facebook Follow" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=1976d2&amp;logo=facebook&amp;logoColor=ffffff" style="max-width:100%;"></a>
   <span> &nbsp </span> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/620c701b40c2430d791ba253614c8f9f14a0167f5ddcccee7e6c2e59323cd306/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d7069617368637365"><img src="https://camo.githubusercontent.com/620c701b40c2430d791ba253614c8f9f14a0167f5ddcccee7e6c2e59323cd306/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d7069617368637365" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=siamshaeed" style="max-width:100%;"></a>
 
-
-<hr>
 
 <h3 align="left"><i>Languages and Tools :</i></h3> 
 
