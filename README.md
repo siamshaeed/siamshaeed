@@ -44,6 +44,6 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <img align="right" alt="_siam_shaeed" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="490" height="280"/> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siamshaeed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siamshaeed&langs_count=5)]
 
 
