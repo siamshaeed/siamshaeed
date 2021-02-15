@@ -24,7 +24,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 
 <hr>
 
-<h3 align="left"><i>Languages and Tools :</i></h3> <br> 
+<h3 align="left"><i>Languages and Tools :</i></h3> 
 
 <code>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="25" height="25"/> </a>
@@ -39,7 +39,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> 
 </code>
 
-<br>
+<p> </p>
 
 
 <img align="right" alt="_siam_shaeed" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="440" height="200"/> 
