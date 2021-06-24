@@ -10,6 +10,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">&nbsp &nbsp📋</g-emoji> <a   href="http://siamshaeed.me" target="_blank">Resume</a>
 </p>
 
+<a href="mailto:siamshaeed@gmail.com?subject=Github%20Visitor&body=Hi%20Nuhil,..."><img src="http://img.shields.io/badge/-@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="siamshaeed@gmail.com"></a>
 
 <h3 align="left" ><i>Connect with me :</i></h3>
 
