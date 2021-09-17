@@ -6,7 +6,7 @@
 </blockquote>
 
 <p>
-I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas of Web Application from back end programming (PHP, laravel) to Front-End (HTML, CSS,Bootstrap and Javascript, jQuery), Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
+I’m a Software Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas Backend programming (PHP, laravel) to Front-End (HTML, CSS,Bootstrap and Javascript, Vue, jQuery), Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.Thanks.
 <g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">&nbsp &nbsp📋</g-emoji> <a   href="http://siamshaeed.me" target="_blank">Resume</a>
 </p>
 
@@ -33,6 +33,7 @@ I’m a Web Application Developer living in Dhaka, Bangladesh. I spend my days w
 <a href="https://jquery.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="javascript" width="25" height="25"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="25" height="25"/> </a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="laravel" width="25" height="25"/> </a>
 <a href="https://wordpress.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="git" width="25" height="25"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="25" height="25"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> 
