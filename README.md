@@ -42,7 +42,7 @@ I’m a Software Developer living in Dhaka, Bangladesh. I spend my days with my 
 <p> </p>
 
 <a href="http://siamshaeed.me">
-<img align="right" target="_blank" alt="_siam_shaeed" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="520" height="270"/> 
+<img align="right" target="_blank" alt="_siam_shaeed" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="420" height="270"/> 
 </a>
 
 
