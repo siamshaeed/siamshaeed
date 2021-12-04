@@ -9,7 +9,7 @@
 I’m a Software Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas Backend programming (PHP, laravel, Python) to Front-End (HTML, CSS,Bootstrap and Javascript, Vue, jQuery), Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.
 <g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">&nbsp &nbsp📋</g-emoji> <a   href="http://siamshaeed.me" target="_blank">Resume</a>
 </p>
-
+<hr>
 
 <h3 align="left" ><i>Connect with me :</i></h3>
 
@@ -39,7 +39,7 @@ I’m a Software Developer living in Dhaka, Bangladesh. I spend my days with my 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="mysql" width="25" height="25"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> 
 </p>
-
+<hr>
 <p> </p>
 
 <a href="http://siamshaeed.me">
