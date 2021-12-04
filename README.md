@@ -36,7 +36,7 @@ I’m a Software Developer living in Dhaka, Bangladesh. I spend my days with my 
 <a href="https://laravel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="laravel" width="25" height="25"/> </a>
 <a href="https://wordpress.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="git" width="25" height="25"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="25" height="25"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/python-icon.svg" alt="mysql" width="25" height="25"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="mysql" width="25" height="25"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> 
 </p>
 
