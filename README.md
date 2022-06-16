@@ -6,7 +6,7 @@
 </p>
 
 <blockquote>
-<h4>Jr Software Engineer</h4>
+<h4>Software Engineer</h4>
 </blockquote>
 
 <p>
