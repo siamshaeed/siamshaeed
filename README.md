@@ -5,10 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=siamshaeed&label=Profile%20views&color=0e75b6&style=flat" alt="Siam" />
 </p>
 
-<blockquote>
-<h4>Software Engineer</h4>
-</blockquote>
-
 <p>
 I’m a Software Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas Backend programming (PHP, laravel, Python) to Front-End (HTML, CSS,Bootstrap and Javascript, Vue, jQuery), Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.
 <g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">&nbsp &nbsp📋</g-emoji> <a   href="http://siamshaeed.me" target="_blank">Resume</a>
