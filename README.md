@@ -26,7 +26,7 @@
 
 <hr>
 
-<h3 align="left" ><i>Connect with me :</i></h3>
+<h3 align="left" ><i>Reach out to me at:</i></h3>
 
 <!-- <p style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> +8801787972797
 &nbsp  
