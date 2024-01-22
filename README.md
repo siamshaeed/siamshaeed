@@ -6,9 +6,19 @@
 </p>
 
 <p>
-I’m a Software Developer living in Dhaka, Bangladesh. I spend my days with my hands in many different areas Backend programming (PHP, laravel, Python) to Front-End (HTML, CSS,Bootstrap and Javascript, Vue, jQuery), Digital Accessibility, user experience and visual design. I’m extremely passionate about Web Application development and design in all it’s forms and helping small businesses and artisans build and improve their online presence.
+I am Shaeed Al Hasan Siam, Software developer, and open-source enthusiast with 2+ years of experience. I love and work with PHP, WordPress, Laravel, and Javascript. I'm passionate about building scalable and user-friendly web applications. <b>I'm open to work and employment opportunities.</b>
 <g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">&nbsp &nbsp📋</g-emoji> <a   href="http://siamshaeed.com" target="_blank">Resume</a>
 </p>
+<p>During my free time, I love reading, teaching, traveling, and being with my family.</p> 
+
+<p>Here are some of my skills and accomplishments:</p>
+    <ul>
+        <li>Developed a web application that was used by over a number of users</li>
+        <li>I have contributed to open-source projects on GitHub and regularly share blog posts.</li>
+        <li>Conducted technical training sessions at both the <a href="https://bim.gov.bd/" target="_blank">BIM</a> and other institutes.</li>
+    </ul>
+    <p>I'm always looking for new challenges and opportunities to learn and grow. If you have any questions or want to collaborate on a project, please feel free to reach out to me.</p>
+
 <hr>
 
 <h3 align="left" ><i>Connect with me :</i></h3>
