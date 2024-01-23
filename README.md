@@ -12,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p>I am Shaeed Al Hasan Siam, Software developer, and open-source enthusiast with 2 years of experience. I love and work with PHP, WordPress, Laravel, and Javascript. I'm passionate about building scalable and user-friendly web applications. <b>I'm open to work and employment opportunities.</b>
+<p>I am Shaeed Al Hasan Siam, Software developer, and open-source enthusiast with 2 years of experience. I love and work with PHP, Javascript, Laravel, and WordPress. I'm passionate about building scalable and user-friendly web applications. <b>I'm open to work and employment opportunities.</b>
 <g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">&nbsp📋</g-emoji> <a href="http://siamshaeed.com" target="_blank">Resume</a></p>
 <p>During my free time, I love reading, teaching, traveling, and being with my family.</p> 
 
