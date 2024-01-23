@@ -25,9 +25,9 @@
     <p>I'm always looking for new challenges and opportunities to learn and grow. If you have any questions or want to collaborate on a project, please feel free to reach out to me.</p>
 
 <p><b>Reach out to me at:</b>
-	<b><a href="mailto:siamshaeed@gmail.com" target="_blank" style="text-decoration:none; color:black">Email</a>  &nbsp; | &nbsp; 
-	<a href="https://www.linkedin.com/in/siamshaeed/" target="_blank" style="text-decoration:none; color:black">Linkedin</a> &nbsp; | &nbsp; 
-	<a href="https://www.instagram.com/siamshaeed/" target="_blank" style="text-decoration:none; color:black">Instagram</a></b></p>
+	<b><a href="mailto:siamshaeed@gmail.com" target="_blank">Email</a>  &nbsp; | &nbsp; 
+	<a href="https://www.linkedin.com/in/siamshaeed/" target="_blank">Linkedin</a> &nbsp; | &nbsp; 
+	<a href="https://www.instagram.com/siamshaeed/" target="_blank">Instagram</a></b></p>
 <hr>
 
 <p> </p>
