@@ -24,9 +24,11 @@
     </ul>
     <p>I'm always looking for new challenges and opportunities to learn and grow. If you have any questions or want to collaborate on a project, please feel free to reach out to me.</p>
 
-<p><b>Reach out to me at:</b> :coffee: &emsp;
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akr4m/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akr4mkhan/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akr4mkhan/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akr4mkhan/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akr4m.kh@gmail.com)
-<p> </p>
+<p><b>Reach out to me at:</b>
+<b><a href="mailto:siamshaeed@gmail.com" target="_blank">Email</a>  &nbsp; | &nbsp; 
+	<a href="https://www.linkedin.com/in/siamshaeed/" target="_blank">Linkedin</a> &nbsp; | &nbsp; 
+	<a href="https://www.instagram.com/siamshaeed/" target="_blank">Instagram</a></b></p>
+</hr>
 
 <a href="http://siamshaeed.me">
 <img align="right" target="_blank" alt="_siam_shaeed" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="500" height="280"/> 
