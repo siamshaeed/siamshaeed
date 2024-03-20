@@ -28,7 +28,7 @@
 <b><a href="mailto:siamshaeed@gmail.com" target="_blank">Email</a>  &nbsp; | &nbsp; 
 	<a href="https://www.linkedin.com/in/siamshaeed/" target="_blank">Linkedin</a> &nbsp; | &nbsp; 
 	<a href="https://www.instagram.com/siamshaeed/" target="_blank">Instagram</a></b></p>
-</hr>
+<hr>
 
 <a href="http://siamshaeed.me">
 <img align="right" target="_blank" alt="_siam_shaeed" src="https://github.com/SiamShaeed/siamshaeed/blob/main/image/code_siam.gif?raw=true" width="500" height="280"/> 
